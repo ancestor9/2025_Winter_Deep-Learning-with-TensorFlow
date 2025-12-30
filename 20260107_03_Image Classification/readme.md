@@ -1,3 +1,3 @@
-- [CNN_Convolutional Neural Network ](https://poloclub.github.io/cnn-explainer/)
+- [Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
 
-- [Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics](https://www.101ai.net/vision/vizdemo)
+- [CNN_Convolutional Neural Network ](https://poloclub.github.io/cnn-explainer/)
