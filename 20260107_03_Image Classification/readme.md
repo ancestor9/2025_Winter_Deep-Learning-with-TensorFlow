@@ -14,7 +14,6 @@
 - [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
 - [Convolutionary Neural Network](https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586)
 - [Deep Learning Bible](https://wikidocs.net/177768)
-- [convnet_Visualization](https://poloclub.github.io/cnn-explainer/)
 - [유튜브-1](https://www.youtube.com/watch?v=Em63mknbtWo)
 - [유튜브-2](https://www.youtube.com/watch?v=2-75C-yZaoA)
 
