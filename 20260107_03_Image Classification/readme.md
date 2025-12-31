@@ -1,4 +1,4 @@
-### 이미지 분류(Deep learning for Image Classificationdhk Transfer Learning)
+### 이미지 분류(Deep learning for Image Classification & Transfer Learning)
 #### 학습 순서
 - [i. Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
 -     * 이미지 데이터는 Fully Connected Neural Network을 합슥에 적합하지 않은가?
@@ -16,12 +16,15 @@
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Boz5FkpCxJyHj5mdNrbTTA.gif" style="width:400px; height:300px;">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q7NXeOlDkm4xlNrNQOS67g.gif" style="width:400px; height:300px;">
 
-### 참고자료
+- 4. 실습
+-      * chapter08_image_classification.ipynb 의 코드를 이해하는 가?
+       * 전이학습의 모델 아키텍처 구성을 이해하는가? 왜 전체 parameter를 학습하지 않는가?
 
-- [CNN_Convolutional Neural Network ](https://poloclub.github.io/cnn-explainer/)
-- [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
-- [Convolutionary Neural Network](https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586)
-- [Deep Learning Bible](https://wikidocs.net/177768)
-- [유튜브-1](https://www.youtube.com/watch?v=Em63mknbtWo)
-- [유튜브-2](https://www.youtube.com/watch?v=2-75C-yZaoA)
+- 5. 참고자료
+-      [CNN_Convolutional Neural Network ](https://poloclub.github.io/cnn-explainer/)
+       [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
+       [Convolutionary Neural Network](https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586)
+       [Deep Learning Bible](https://wikidocs.net/177768)
+       [유튜브-1](https://www.youtube.com/watch?v=Em63mknbtWo)
+       [유튜브-2](https://www.youtube.com/watch?v=2-75C-yZaoA)
 
