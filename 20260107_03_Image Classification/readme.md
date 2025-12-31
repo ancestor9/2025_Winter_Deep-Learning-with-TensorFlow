@@ -1,11 +1,15 @@
 ### 이미지 분류(Deep learning for Image Classificationdhk Transfer Learning)
 #### 학습 순서
 - [1. Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
-
-
-- CNN(Convolutional Neural Networks)
+-     * 이미지 데이터는 Fully Connected Neural Network을 합슥에 적합하지 않은가?
+      * 이미지 데이터를 입력으로 받아 cortex 와 같이 특징을 추출하는 방법은 무엇인가? Filter Kernel?
+      * 14_1_image_representation_for_cnns,  14_2_cnn_translation_invariance,  14_3_local_patch_filter 노크북 코드의 직관적 이해?
+- CNN(Convolutional Neural Networks)의 모델 아키텍처
 <img width="827" height="407" alt="image" src="https://github.com/user-attachments/assets/cb96063d-bb19-4f30-9c4b-11fc07bc5233" />
-- LLM에게 내적과 행렬의 크기 변환에 대해 prompt
+
+-     * LLM에게 내적과 행렬의 크기 변환에 대해 물어보고 수학의 Convolution 연산을 이해하는가?
+      * Filter Kernel 함수의 역할을 이해하는가?
+      * Convolution Layer 종단층에 왜 FNN을 연결하는가? layers.GlobalAveragePooling2D() ?
 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h1S9FFDHmmj5yY_Y3uMcgw.gif" style="width:400px; height:300px;">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Boz5FkpCxJyHj5mdNrbTTA.gif" style="width:400px; height:300px;">
