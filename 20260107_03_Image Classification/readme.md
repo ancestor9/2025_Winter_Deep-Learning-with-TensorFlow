@@ -16,8 +16,7 @@
   
 #### 3. 아래 내용을 이해하고 설명할 수있는가?
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h1S9FFDHmmj5yY_Y3uMcgw.gif" style="width:400px; height:300px;">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Boz5FkpCxJyHj5mdNrbTTA.gif" style="width:400px; height:300px;">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q7NXeOlDkm4xlNrNQOS67g.gif" style="width:400px; height:300px;">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Boz5FkpCxJyHj5mdNrbTTA.gif" style="width:400px; height:300px;"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q7NXeOlDkm4xlNrNQOS67g.gif" style="width:400px; height:300px;">
 
 #### 4. 실습하기
 -      * chapter08_image_classification.ipynb 의 코드를 이해하는 가?
