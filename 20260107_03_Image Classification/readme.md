@@ -29,6 +29,7 @@
 #### 5. CNN Mechanism
 - 아래를 클릭하고 설명할 수 있는가?
 -      * Fatten 레이어의 역할은 무엇이지? 없어도 상관없는가?
+       * 합성곱(Convolution) vs Transformer의 어텐션(Attention)과 다른 점은 ? 직관적 설명을 할 수 있나?
 - [CNN_Convolutional Neural Network](https://poloclub.github.io/cnn-explainer/)
 - [Demo Video "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization"](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
 
