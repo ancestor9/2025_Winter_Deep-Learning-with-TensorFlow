@@ -22,9 +22,6 @@
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q7NXeOlDkm4xlNrNQOS67g.gif" width="400" height="300">
 </div>
 
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Boz5FkpCxJyHj5mdNrbTTA.gif" style="width:400px; height:300px;"> 
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q7NXeOlDkm4xlNrNQOS67g.gif" style="width:400px; height:300px;">
-
 #### 4. 실습하기
 -      * chapter08_image_classification.ipynb 의 코드를 이해하는 가?
        * 전이학습의 모델 아키텍처 구성을 이해하는가? 왜 전체 parameter를 학습하지 않는가?
