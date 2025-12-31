@@ -1,4 +1,6 @@
 ### 이미지 분류와 전이학습(Deep learning for Image Classification & Transfer Learning)
+- Deep Learning with Pyton 책의 Chapter 8장의 내용과 코드(chapter08_image_classification.ipynb)
+
 #### 1. CNN의 직관적 이해 
 - [Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
 -     * 이미지 데이터는 Fully Connected Neural Network을 합슥에 적합하지 않은가?
@@ -16,7 +18,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Boz5FkpCxJyHj5mdNrbTTA.gif" style="width:400px; height:300px;">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Q7NXeOlDkm4xlNrNQOS67g.gif" style="width:400px; height:300px;">
 
-#### 4. 실습
+#### 4. 실습하기
 -      * chapter08_image_classification.ipynb 의 코드를 이해하는 가?
        * 전이학습의 모델 아키텍처 구성을 이해하는가? 왜 전체 parameter를 학습하지 않는가?
 
