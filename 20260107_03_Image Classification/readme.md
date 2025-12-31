@@ -1,6 +1,6 @@
-### 이미지 분류(Deep learning for Image Classification)
+### 이미지 분류(Deep learning for Image Classificationdhk Transfer Learning)
 #### 학습 순서
-- [Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
+- [1. Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
 
 
 - CNN(Convolutional Neural Networks)
