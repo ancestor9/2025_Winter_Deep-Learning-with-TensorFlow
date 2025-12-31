@@ -25,7 +25,9 @@
 
 #### 5. CNN Mechanism
 - 아래를 클릭하고 설명할 수 있는가?
+-      * Fatten 레이어의 역할은 무엇이지? 없어도 상관없는가?
 - [CNN_Convolutional Neural Network](https://poloclub.github.io/cnn-explainer/)
+- [Demo Video "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization"](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
 
 #### 참고자료
 - [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
