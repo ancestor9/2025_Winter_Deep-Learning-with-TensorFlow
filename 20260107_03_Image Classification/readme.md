@@ -1,6 +1,6 @@
 ### 이미지 분류(Deep learning for Image Classificationdhk Transfer Learning)
 #### 학습 순서
-- [1. Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
+- [i. Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
 -     * 이미지 데이터는 Fully Connected Neural Network을 합슥에 적합하지 않은가?
       * 이미지 데이터를 입력으로 받아 cortex 와 같이 특징을 추출하는 방법은 무엇인가? Filter Kernel?
       * 14_1_image_representation_for_cnns,  14_2_cnn_translation_invariance,  14_3_local_patch_filter 노크북 코드의 직관적 이해?
