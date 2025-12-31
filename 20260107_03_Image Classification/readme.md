@@ -24,7 +24,7 @@
        * 전이학습의 모델 아키텍처 구성을 이해하는가? 왜 전체 parameter를 학습하지 않는가?
 
 #### 5. 참고자료
--      [CNN_Convolutional Neural Network ](https://poloclub.github.io/cnn-explainer/)
+- [CNN_Convolutional Neural Network ](https://poloclub.github.io/cnn-explainer/)
        [But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
        [Convolutionary Neural Network](https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586)
        [Deep Learning Bible](https://wikidocs.net/177768)
