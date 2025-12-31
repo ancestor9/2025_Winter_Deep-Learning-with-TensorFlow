@@ -9,8 +9,9 @@
 #### 2. CNN(Convolutional Neural Networks)의 모델 아키텍처
 <img width="827" height="407" alt="image" src="https://github.com/user-attachments/assets/cb96063d-bb19-4f30-9c4b-11fc07bc5233" />
 
--     * LLM에게 내적과 행렬의 크기 변환에 대해 물어보고 수학의 Convolution 연산을 이해하는가?
+-     * LLM에게 내적과 행렬의 크기 변환에 대해 물어보고 수학의 Convolution 연산을 이해하는가? 각 레이어의 행렬식의 구조와 연산을 이해하는가?
       * Filter Kernel 함수의 역할을 이해하는가?
+      * Loss Function과 Optimation을 통해 어떤 Parameter를 추정하는지 설명할 수있나?
       * Convolution Layer 종단층에 왜 FNN을 연결하는가? layers.GlobalAveragePooling2D() ?
   
 #### 3. 아래 내용을 이해하고 설명할 수있는가?
