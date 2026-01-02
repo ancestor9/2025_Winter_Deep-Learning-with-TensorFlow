@@ -2,7 +2,6 @@
 - chapter13_timeseries-forecasting.ipynb
 
 ### 과제
-- fetch_20newsgroups을 corpus로 하여 Gaussian Naive Bayes와 1D convnet의 예측모형을 각각 구하고 평가와 선택을 하라
 - [자연어 처리를 위한 1D CNN(1D Convolutional Neural Networks)](https://wikidocs.net/80437)
 
 ### RNN, LSTM
