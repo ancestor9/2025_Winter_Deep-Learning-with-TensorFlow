@@ -7,4 +7,4 @@
 [그래디언트 및 자동 미분 소개](https://www.tensorflow.org/guide/autodiff?hl=ko)
 
 
-[AlexNet의 구조](https://resources-public-blog.modulabs.co.kr/blog/prd/content/259481/Untitled-4.png)
+![AlexNet의 구조](https://resources-public-blog.modulabs.co.kr/blog/prd/content/259481/Untitled-4.png)
