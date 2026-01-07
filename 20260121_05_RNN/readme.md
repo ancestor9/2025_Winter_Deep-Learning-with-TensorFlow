@@ -1,4 +1,4 @@
-### CNN과 RNN
+### 1. CNN과 RNN
 
 #### AlexNet의 구조 이해하니?
 ![](https://resources-public-blog.modulabs.co.kr/blog/prd/content/259481/Untitled-4.png)
@@ -10,12 +10,12 @@
 - 비선형 복잡도 증가 (Non-linearity)단순히 레이어를 하나만 쓰는 것보다, 두 레이어 사이에 ReLU와 같은 활성화 함수를 넣어 두 번 거치게 되면 모델이 훨씬 더 복잡하고 정교한 관계를 학습할 수 있습니다.레이어를 거듭할수록 데이터는 단순한 '픽셀의 모임'에서 '사물의 개념'으로 변하게 됩니다.3. 이미지 캡셔닝에서의 역할질문하신 이미지 캡셔닝 구조(image_d132a5.jpg)에서는 이 두 번째 FC 4096 레이어가 특히 중요합니다.
 - 마지막 FC 4096에서 나온 결과물은 이미지 전체의 내용을 4096개의 숫자로 요약한 **'최종 컨텍스트 벡터'**가 되며(Encoder) ---> Decoder부분이 RNN(디코더)으로 전달되어 "A cat sitting on a chair"라는 문장을 만드는 시작점 (마치 Sequence to Sequence Model)
 
-### 시계열데이터 예측(FNN, 1D convnet, RNN)
+### 2. 시계열데이터 예측(FNN, 1D convnet, RNN)
 - chapter13_timeseries-forecasting.ipynb
 
-### 과제
+### 3. 과제
 - [자연어 처리를 위한 1D CNN(1D Convolutional Neural Networks)](https://wikidocs.net/80437)
 
-### RNN, LSTM
+### 4. RNN, LSTM
 - 노래의 코드, 박자 등을 encoding하여 딥러닝을 적용
 - [순환 신경망 모델 만들어보기](https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/)
