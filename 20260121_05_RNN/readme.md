@@ -10,7 +10,7 @@
       . 비선형 복잡도 증가 (Non-linearity)단순히 레이어를 하나만 쓰는 것보다, 두 레이어 사이에 ReLU와 같은 활성화 함수를 넣어 두 번 거치게 되면 모델이 훨씬 더 복잡하고 정교한 관계를 학습할 수 있습니다.레이어를 거듭할수록 데이터는 단순한 '픽셀의 모임'에서 '사물의 개념'으로 변하게 됩니다.
 - 이미지 캡셔닝 구조에서는 이 두 번째 FC 4096 레이어가 특히 중요합니다.
 -     마지막 FC 4096에서 나온 결과물은 이미지 전체의 내용을 4096개의 숫자로 요약한 **'최종 컨텍스트 벡터'**가 되며(Encoder) ---> Decoder부분이 RNN(디코더)으로 전달되어 "A cat sitting on a chair"라는 문장을 만드는 시작점 (Sequence to Sequence Model)
-- [Sequence to Sequence Model](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6))
+- [Sequence to Sequence Model, Andrew ng](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
 
 ### 2. 시계열데이터 예측(FNN, 1D convnet, RNN)
 - chapter13_timeseries-forecasting.ipynb
