@@ -3,7 +3,7 @@
 
 #### 1. CNN의 직관적 이해 
 - [Master CNN Concepts with Interactive Learning!](https://www.101ai.net/vision/vizdemo)
--     * 이미지 데이터는 Fully Connected Neural Network을 합슥에 적합하지 않은가?
+-     * 이미지 데이터는 Fully Connected Neural Network 학습에 적합하지 않은 이유는?
       * 이미지 데이터를 입력으로 받아 cortex 와 같이 특징을 추출하는 방법은 무엇인가? Filter Kernel?
       * 14_1_image_representation_for_cnns,  14_2_cnn_translation_invariance,  14_3_local_patch_filter 노크북 코드의 직관적 이해?
 #### 2. CNN(Convolutional Neural Networks)의 모델 아키텍처
@@ -29,7 +29,7 @@
 #### 5. CNN Mechanism
 - 아래를 클릭하고 설명할 수 있는가?
 -      * Fatten 레이어의 역할은 무엇이지? 없어도 상관없는가?
-       * CNN의 계산방식을 local patch-filter 라고 하는데 ? 무이미지 데이터를 어떻게 인식한다는 것인가? Why not global ~~?
+       * CNN의 계산방식을 local patch-filter 라고 하는데 ? 이미지 데이터를 어떻게 인식한다는 것인가? Why not global ~~?
        * 합성곱(Convolution) vs Transformer의 어텐션(Attention)과 다른 점은 ? 직관적 설명을 할 수 있나?
 - [CNN_Convolutional Neural Network](https://poloclub.github.io/cnn-explainer/)
 - [Demo Video "CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization"](https://www.youtube.com/watch?v=HnWIHWFbuUQ)
