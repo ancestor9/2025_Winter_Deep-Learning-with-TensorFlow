@@ -5,3 +5,7 @@
 
 #### (Option)Tensorflow의 그래디언트 및 자동 미분 소개 --> 공부하기
 [그래디언트 및 자동 미분 소개](https://www.tensorflow.org/guide/autodiff?hl=ko)
+
+
+#### L1, L2
+[](https://cdn.jsdelivr.net/gh/HayoonSong/Images-for-Github-Pages/study/deep_learning/2022-07-06-l1_l2_norm/l1_l2.jpg?raw=true)
