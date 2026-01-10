@@ -1,6 +1,6 @@
 ### 1. CNN과 RNN
 
-#### AlexNet의 구조 이해하니?
+#### AlexNet의 구조 이해하니? (복습)
 ![](https://resources-public-blog.modulabs.co.kr/blog/prd/content/259481/Untitled-4.png)
 
 #### 공간 정보에서 의미 정보로의 전환:
