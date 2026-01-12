@@ -3,8 +3,9 @@
 - 모델링(입력, Hidden, 출력 Layer)
 - 모델 compile(loss fuction, optimizer, autograd 편미분)
 
-![Tensor Inner product](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*W6OZ1ggknigj3VYU.png)
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*W6OZ1ggknigj3VYU.png">
 <img src ='https://deeplearningwithpython.io/images/ch08/how_convolution_works.fb611af4.png' width = 400>
+
 [Tensor 내적연산, 소프트웨어꼰대선생](https://www.youtube.com/watch?v=pPIFauuiwEU)
 
 #### (Option)Tensorflow의 그래디언트 및 자동 미분 소개 --> 공부하기
