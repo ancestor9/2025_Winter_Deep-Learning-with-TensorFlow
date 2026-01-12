@@ -14,4 +14,6 @@
 
 #### L1, L2
 - [geogebra](https://www.geogebra.org/)로 아래 그림 이해하기(Loss Function)
-![](https://cdn.jsdelivr.net/gh/HayoonSong/Images-for-Github-Pages/study/deep_learning/2022-07-06-l1_l2_norm/l1_l2.jpg?raw=true)
+
+<img src = "https://cdn.jsdelivr.net/gh/HayoonSong/Images-for-Github-Pages/study/deep_learning/2022-07-06-l1_l2_norm/l1_l2.jpg?raw=true">
+
