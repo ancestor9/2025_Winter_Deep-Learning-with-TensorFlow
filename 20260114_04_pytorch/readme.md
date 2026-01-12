@@ -5,7 +5,7 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*W6OZ1ggknigj3VYU.png" width = 600>
 <img src ='https://deeplearningwithpython.io/images/ch08/how_convolution_works.fb611af4.png' width = 400>
-- Kernel size가 각가 (1,1), (3,3), (6,6)인 8개의 Kernel이 Input Feature(6,6,8)와컨볼루션하는 그림 :  kernel_01.jpg, kernel_02.jpg, kernel_03.jpg
+- Kernel size가 각각 (1,1), (3,3), (6,6)인 8개의 Kernel이 Input Feature(6,6,8)와컨볼루션하는 그림 :  kernel_01.jpg, kernel_02.jpg, kernel_03.jpg
 
 [Tensor 내적연산, 소프트웨어꼰대선생](https://www.youtube.com/watch?v=pPIFauuiwEU)
 
