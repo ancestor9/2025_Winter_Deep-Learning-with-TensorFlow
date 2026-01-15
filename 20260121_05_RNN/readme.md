@@ -1,4 +1,4 @@
-### 1. CNN과 RNN
+### 1. RNN과 CNN
 
 #### AlexNet의 구조 이해하니? (복습)
 <img src = "https://resources-public-blog.modulabs.co.kr/blog/prd/content/259481/Untitled-4.png" height =400>
