@@ -1,7 +1,7 @@
 ### 1. CNN과 RNN
 
 #### AlexNet의 구조 이해하니? (복습)
-![](https://resources-public-blog.modulabs.co.kr/blog/prd/content/259481/Untitled-4.png)
+<img src = "https://resources-public-blog.modulabs.co.kr/blog/prd/content/259481/Untitled-4.png" height =600>
 
 #### 공간 정보에서 의미 정보로의 전환:
 - 마지막 컨볼루션 레이어에서 나온 공간적인 특징들($6 \times 6 \times 256$)을 일렬로 늘어놓은 상태로  이 단계에서는 아직 "어디에 어떤 모양이 있다"는 물리적인 정보가 강하게 남아 있습니다.
